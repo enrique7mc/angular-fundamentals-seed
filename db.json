@@ -2,7 +2,7 @@
   "passengers": [
     {
       "id": 1,
-      "fullName": "Steve",
+      "fullName": "Stephen",
       "checkedIn": true,
       "checkedInDate": 1485194920162,
       "children": null
