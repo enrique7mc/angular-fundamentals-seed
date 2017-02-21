@@ -8,11 +8,11 @@
       "checkedInDate": 1485194920162
     },
     {
-      "id": 2,
       "fullName": "Carl",
-      "checkedIn": false,
-      "checkedInDate": null,
-      "baggage": ""
+      "id": 2,
+      "checkedIn": true,
+      "baggage": "hold",
+      "checkedInDate": 1487640460787
     },
     {
       "id": 3,
